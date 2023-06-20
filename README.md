@@ -8,7 +8,7 @@ I am doing this os for learning assembly and as a hobby
 + nasm	(assembler)
 + qemu	(for emulating)
 + bochs (for debugging)
-+ some kind of hex editor(i use *Ghex* and *bochs* hex editor)
++ some kind of hex editor(i use **Ghex** and **bochs** hex editor)
 
 
 ## Getting Started
@@ -19,7 +19,7 @@ $ cd MetinOS
 $ ./build.sh
 ```
 
-	for debug OS instead of using ./build.sh use ./debug.sh
+	**for debug OS instead of using ./build.sh use ./debug.sh**
 	
 ```shell
 $ ./debug.sh
