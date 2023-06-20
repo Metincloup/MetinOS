@@ -19,7 +19,7 @@ $ cd MetinOS
 $ ./build.sh
 ```
 
-	**for debug OS instead of using ./build.sh use ./debug.sh**
+	** for debug OS instead of using ./build.sh use ./debug.sh**
 	
 ```shell
 $ ./debug.sh
