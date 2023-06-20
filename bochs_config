@@ -1,0 +1,5 @@
+megs: 128
+floppya: 1_44=boot.bin, status=inserted
+boot: a
+display_library: sdl, options="gui_debug"
+log: bochsout.txt
