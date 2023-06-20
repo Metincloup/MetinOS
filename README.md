@@ -12,11 +12,11 @@ I am doing this os for learning assembly and as a hobby
 
 ## Getting Started
 
-'''shell
+```shell
 $ git clone https://github.com/Metincloup/MetinOS.git
 $ cd MetinOS
 $ ./build.sh
-'''
+```
 
 ## Changes
 
