@@ -28,7 +28,7 @@ $ dd if=boot.bin of=MetinOS.iso bs=512
 	
 ```shell
 $ ./debug.sh
-``
+```
 
 ## Changes
 
