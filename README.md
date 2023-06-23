@@ -18,14 +18,26 @@ $ git clone https://github.com/Metincloup/MetinOS.git
 $ cd MetinOS
 $ ./build.sh
 ```
+## Create iso
 
-	** for debug OS instead of using ./build.sh use ./debug.sh**
+```shell
+$ dd if=boot.bin of=MetinOS.iso bs=512
+```
+
+	**for debug OS instead of using ./build.sh use ./debug.sh**
 	
 ```shell
 $ ./debug.sh
 ``
 
 ## Changes
+
+
+### **2023-06-24**
+---
++	Added KeyBoard input 
++	Added clearScreen Function
++	Added Cursor control functions
 
 ### **2023-06-20**
 ---
